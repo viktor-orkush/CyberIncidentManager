@@ -7,9 +7,6 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.util.ArrayList;
 
-/**
- * Created by Viktor on 13.06.2017.
- */
 public class AlgDosTable {
 
     private static final String TABLE_ALG_DOS = "alg_dos";
